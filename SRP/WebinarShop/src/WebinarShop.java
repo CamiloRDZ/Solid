@@ -21,7 +21,7 @@ public class WebinarShop {
     }
 
     public static void main(String[] args){
-        System.out.println("\n");
+	
         WebinarShop app = new WebinarShop(
             new MiniShop("Kata Shops"),
             new ShopEmailNotifier("correo@pruebas"),
